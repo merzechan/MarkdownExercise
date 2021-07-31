@@ -16,7 +16,7 @@ url stuff
 
 #### Data Dictionary
 | this | is | a | table |
-|------|:---|:--|:------|
+|-|-|-|-|
 | data1 | data2 | data3 | data4 |
 
 
