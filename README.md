@@ -16,7 +16,7 @@ url stuff
 ### Data Processing
 What I did for:  
 - data cleaning  
-- EDA  
+- EDA  <br>
 Summary of the activities.  
 Findings  
 
