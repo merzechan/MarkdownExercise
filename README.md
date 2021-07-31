@@ -31,7 +31,7 @@ Findings
 
 ### Features
 Feature engineering stuff
-1. Standard Scaler on X
+1. <font color = 'red'>Standard Scaler</font> on X
 2. Min Max Scaler on Y
 3. Log Transform on Z
 
