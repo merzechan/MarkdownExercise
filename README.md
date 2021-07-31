@@ -46,5 +46,10 @@ from sklearn.linear_model import LinearRegression
 ```
 
 ### Model Evaluation
+<details>
+  <summary>Linear Model</summary>
+  This is how it's done
+  :heart_eyes_cat:
+ </details>
 
 ### Results & Recommendations
