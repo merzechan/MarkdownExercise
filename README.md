@@ -10,13 +10,17 @@ this is the subheading content
 
 #### Data Sources
 url stuff
+* [abc data](https://github.com/merzechan)
+* [def data](https://github.com/merzechan)
+* 
 
 #### Data Dictionary
 
 ### Data Processing
 What I did for:  
 - data cleaning  
-- EDA  <br>
+- EDA  
+
 Summary of the activities.  
 Findings  
 
