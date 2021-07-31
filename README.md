@@ -14,9 +14,11 @@ url stuff
 #### Data Dictionary
 
 ### Data Processing
-What I did for:
+What I did for:  
 - data cleaning
 - EDA
+Summary of the activities.  
+Findings  
 
 ### Features
 Feature engineering stuff
